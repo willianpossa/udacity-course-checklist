@@ -4,7 +4,7 @@ A awesome checklist of free Udacity courses for front-end developers. Just fork 
 
 ## Padawan
 
-- [ ] [Intro to HTML and CSS](https://br.udacity.com/course/intro-to-html-and-css--ud304)
+- [x] [Intro to HTML and CSS](https://br.udacity.com/course/intro-to-html-and-css--ud304)
 - [ ] [Javascript Basics](https://br.udacity.com/course/javascript-basics--ud804)
 - [ ] [HTML5 Canvas](https://br.udacity.com/course/html5-canvas--ud292)
 - [ ] [Writing READMEs](https://br.udacity.com/course/writing-readmes--ud777)
